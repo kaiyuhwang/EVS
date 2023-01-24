@@ -117,3 +117,18 @@ We build the incremental learning procedure for Multilingual Neural Machine Tran
 ---
 ## Inference & Evaluation
 Please refer to run_sh/inference.sh & run_sh/evaluate.sh
+
+---
+## Citation
+```
+@inproceedings{huang-etal-2022-entropy,
+title = "Entropy-Based Vocabulary Substitution for Incremental Learning in Multilingual Neural Machine Translation",
+author = "Huang, Kaiyu  and
+      Li, Peng  and
+      Ma, Jin  and
+      Liu, Yang",
+booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+year = "2022",
+publisher = "Association for Computational Linguistics",
+}
+```
